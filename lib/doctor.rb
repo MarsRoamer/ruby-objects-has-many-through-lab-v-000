@@ -20,7 +20,7 @@ class Doctor
   def patients
     binding.pry
     @appointments.collect {|patient| patient.name}
-    
+
   end
 
 end
