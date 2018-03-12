@@ -12,7 +12,7 @@ class Genre
     @songs
   end
 
-  
+
 
 
 
