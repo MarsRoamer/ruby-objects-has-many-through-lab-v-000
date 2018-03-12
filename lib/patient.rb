@@ -13,8 +13,8 @@ class Patient
     appointment.patient = self
     # This method should also tell the appointment that it belongs to this patient.
   end
-    
-    
+
+
 
 
 
