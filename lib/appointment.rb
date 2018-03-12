@@ -1,4 +1,4 @@
-class Appointment 
+class Appointment
 
   attr_accessor :date, :doc
 
